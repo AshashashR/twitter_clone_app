@@ -84,11 +84,11 @@ WSGI_APPLICATION = 'twitter_clone.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'd5gcjsf65el7c4',
-        'HOST': 'c8lj070d5ubs83.cluster-czrs8kj4isg7.us-east-1.rds.amazonaws.com',
+        'NAME': 'dbe2hjerd0v2vo',
+        'HOST': 'ec2-44-199-19-76.compute-1.amazonaws.com',
         'PORT': 5432,
-        'USER': 'u5t59uvl7d7p3g',
-        'PASSWORD': 'pc36ab9209253c6aeff58550dc7fb837c183d1329620b855c2988e9cfc128ca70',
+        'USER': 'intnqpikjzqggs',
+        'PASSWORD': 'eebdfb5dd6c361a8462e5c0d6068ae1bba06fe8c0c97235f092871709f48e047',
     }
 }
 
